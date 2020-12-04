@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap-grid.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap-reboot.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap-reboot.min.css" />
+    <link rel="stylesheet" asp-href-include="/lib/font-awesome/css/*.css" />
+    <title>SportsStore</title>
+</head>
+<body>
+    <div>
+        <div class="navbar navbar-dark bg-dark" role="navigation">
+            <div class="row">
+                <a class="col navbar-brand" href="#">SPORTS STORE</a>
+                <div class="col-4 text-right">
+                    @await Component.InvokeAsync("CartSummary") 
+                </div>
+                <div class="row-cols-1 text-right">
+                    <a class="btn btn-dark" href="https://sportsstoreprototype.azurewebsites.net/account/login">Admin</a>
+                </div>
+            </div>
+        </div>
+        <div class="row m-1 p-1">
+            <div id="categories" class="col-3">
+                @await Component.InvokeAsync("NavigationMenu") 
+            </div>
+            <div class="col-9">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+</body>
+</html>

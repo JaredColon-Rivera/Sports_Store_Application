@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sportsstoreservercore/databases/products",
+      "type": "mssql.azure",
+      "connectionId": "Data/SportStoreProducts/ConnectionString",
+      "secretStore": "AzureAppSettings"
+    },
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/sportsstoreservercore/databases/identity",
+      "type": "mssql.azure",
+      "connectionId": "Data/SportStoreIdentity/ConnectionString",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

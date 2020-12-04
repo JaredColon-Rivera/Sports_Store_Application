@@ -1,0 +1,49 @@
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\libman.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\SportsStorePrototype - Web Deploy\profile.arm.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.deps.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.runtimeconfig.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.runtimeconfig.dev.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.dll
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.pdb
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.Views.dll
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.AssemblyInfo.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.RazorAssemblyInfo.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.TagHelpers.input.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.TagHelpers.output.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.RazorCoreGenerate.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Error\Error.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Order\Completed.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Order\List.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.RazorTargetAssemblyInfo.cs
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.Views.pdb
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.dll
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.pdb
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.genruntimeconfig.cache
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\SportsStore.csproj.CopyComplete
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\serviceDependencies.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\serviceDependencies.SportsStorePrototype - Web Deploy.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\SportsStorePrototype - Web Deploy\mssql1.arm.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\Properties\ServiceDependencies\SportsStorePrototype - Web Deploy\mssql2.arm.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\bin\Release\netcoreapp2.1\appsettings.production.json
+C:\Users\JaredC\source\repos\SportsStore\SportsStore\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs

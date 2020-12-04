@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-09-02T02:02:53.3361766Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-09-02T02:01:33.8514845Z"
+    }
+  },
+  "parameters": {
+    "mssql2.subscriptionId": {
+      "Type": "subscription",
+      "Value": "5e29b852-299d-452f-9c73-987b38287780"
+    },
+    "mssql2.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "sportsstoreresources"
+    },
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "5e29b852-299d-452f-9c73-987b38287780"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "sportsstoreresources"
+    }
+  }
+}
